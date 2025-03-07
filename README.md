@@ -37,3 +37,6 @@ This is a frontend-based AI chatbot that interacts with users in real-time using
 3️⃣ The API processes the request and returns a response.
 4️⃣ The chatbot displays the response in the chat window.
 5️⃣ The conversation is saved in localStorage, so users can see previous chats.
+
+# 🤖 AI Chatbot using Gemini API
+live link :  https://rathika050907.github.io/gemini-chatbot/
